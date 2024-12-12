@@ -7,7 +7,7 @@ Link to My GitHub Profile is <a href="https://github.com/Emerino1718">here</a>
 
 ## Favorite CPSC 120L:
 
-* Lab 07 Part 1:
+*Lab 07 Part 1:
 
  Lab 07 is my favorite lab out of all the others because not only did I feel like
  I had a good idea of what to do, but I also got to practice using || and && for
@@ -20,14 +20,14 @@ Link to My GitHub Profile is <a href="https://github.com/Emerino1718">here</a>
  where we would talk through the problems instead of staring at the computer 
  blankly and expecting me to do the work.
 
-* Lab 01
+*Lab 01
 
  I know we didn’t do anything complicated in this lab but it's still one of my
  favorites because I was super excited to be a part of this class. Thanks to
  this lab, I was able to learn how to navigate through the terminal, print out
  text, and make good friends while doing it.
 
-* Lab 06 Part 2
+*Lab 06 Part 2
 
  This is my third favorite lab because we got to program a game with more 
  complexity. The other labs had guessing games and fill-in-the-blank programs 
