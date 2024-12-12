@@ -5,7 +5,7 @@ Computer Science by 2028
 
 Link to My GitHub Profile is <a href="https://github.com/Emerino1718">here</a>
 
-## Favorite Computer Science Labs:
+## Favorite CPSC 120L:
 
 * Lab 07 Part 1:
  Lab 07 is my favorite lab out of all the others because not only did I feel like
