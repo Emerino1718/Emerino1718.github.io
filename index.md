@@ -16,7 +16,7 @@ Link to My GitHub Profile is <a href="https://github.com/Emerino1718">here</a>
   lab and the practice I got from it, a big part of why I also really enjoyed the
   lab was because of my partner. Working with them was great we communicated well,
   we were able to debug most of our errors, and I was able to learn new shortcuts
-  and simpler ways to code
+  and simpler ways to code.
 
 * Lab 01
 
