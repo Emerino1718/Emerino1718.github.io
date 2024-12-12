@@ -22,10 +22,10 @@ Link to My GitHub Profile is <a href="https://github.com/Emerino1718">here</a>
 
 * Lab 01
 
- My second favorite lab was the first one I attended. I know we didn’t do
- anything complicated but I was super excited to be a part of this class. Thanks
- to this lab, I was able to learn how to navigate through the terminal, print out
- text, and make good friends and lab partners while doing it.
+ I know we didn’t do anything complicated in this lab but it's still one of my
+ favorites because I was super excited to be a part of this class. Thanks to
+ this lab, I was able to learn how to navigate through the terminal, print out
+ text, and make good friends while doing it.
 
 * Lab 06 Part 2
 
